@@ -1,0 +1,44 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="company" />
+      <item value="日均" />
+      <item value="summary" />
+      <item value="统计" />
+      <item value="eger" />
+      <item value="存在" />
+      <item value="优化" />
+      <item value="frozen" />
+      <item value="冷冻" />
+      <item value="槽" />
+      <item value="匣" />
+      <item value="列" />
+      <item value="tity" />
+      <item value="rotation" />
+      <item value="rote" />
+      <item value="roll" />
+      <item value="渣男" />
+      <item value="收回" />
+      <item value="BLANK" />
+      <item value="精确" />
+      <item value="准确" />
+      <item value="fetch" />
+      <item value="模" />
+      <item value="模糊" />
+      <item value="volumn" />
+      <item value="Criteria" />
+      <item value="verbose" />
+      <item value="volume" />
+      <item value="validate" />
+      <item value="adminvalidate" />
+      <item value="license" />
+      <item value="fragment" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
+      </map>
+    </option>
+  </component>
+</application>
