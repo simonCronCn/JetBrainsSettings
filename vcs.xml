@@ -10,9 +10,13 @@
           <option name="url" value="http://114.67.98.41:28080//ame/admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.67.98.41:28080/ame/admin-qd" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git-home" />
+    <option name="cloneParentDir" value="C:\Users\Simon\git-home" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
