@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="磁" />
       <item value="company" />
       <item value="日均" />
       <item value="summary" />
@@ -37,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
